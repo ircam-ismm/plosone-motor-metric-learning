@@ -1,0 +1,15 @@
+artifact_uri: file:///home/antoine/Documents/research/motor_metric_learning/metric-learning/mlruns/20/a6c2c495c8474651a83495d29d4f46a0/artifacts
+end_time: 1642071671004
+entry_point_name: ''
+experiment_id: '20'
+lifecycle_stage: active
+name: ''
+run_id: a6c2c495c8474651a83495d29d4f46a0
+run_uuid: a6c2c495c8474651a83495d29d4f46a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1642071655883
+status: 3
+tags: []
+user_id: antoine

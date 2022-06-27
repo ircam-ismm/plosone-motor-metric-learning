@@ -1,0 +1,14 @@
+2022-06-15 16:24:45,229 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2022-06-15 16:24:45,229 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2022-06-16 09:49:31,891 - kedro.framework.session.session - INFO - ** Kedro project app
+2022-06-16 09:49:32,145 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2022-06-16 09:49:32,145 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2022-06-16 09:49:33,993 - kedro.io.data_catalog - INFO - Loading data from `raw_users` (CSVDataSet)...
+2022-06-16 09:49:33,993 - kedro.runner.sequential_runner - WARNING - There are 3 nodes that have not run.
+You can resume the pipeline run by adding the following argument to your previous command:
+
+2022-06-16 09:49:33,994 - kedro.framework.session.store - INFO - `save()` not implemented for `BaseSessionStore`. Skipping the step.
+2022-06-16 09:52:05,182 - kedro.framework.session.session - INFO - ** Kedro project app
+2022-06-16 09:52:05,259 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2022-06-16 09:52:05,259 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2022-06-16 09:52:06,391 - kedro.framework.session.store - INFO - `save()` not implemented for `BaseSessionStore`. Skipping the step.

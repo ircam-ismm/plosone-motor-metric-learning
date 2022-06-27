@@ -1,0 +1,8 @@
+data/users.df
+data/templates.df
+data/*zip
+
+figures/.ipynb_checkpoints
+figures/__pycache__
+
+**__pycache__**

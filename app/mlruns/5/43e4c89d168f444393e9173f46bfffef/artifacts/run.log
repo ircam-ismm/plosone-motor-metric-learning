@@ -1,0 +1,215 @@
+2022-01-13 12:06:43,251 - kedro.io.data_catalog - INFO - Loading data from `users` (CSVDataSet)...
+2022-01-13 12:06:43,254 - kedro.io.data_catalog - INFO - Loading data from `users` (CSVDataSet)...
+2022-01-13 12:06:43,259 - kedro.io.data_catalog - INFO - Loading data from `users` (CSVDataSet)...
+2022-01-13 12:06:43,262 - kedro.io.data_catalog - INFO - Loading data from `users` (CSVDataSet)...
+2022-01-13 12:06:43,268 - kedro.io.data_catalog - INFO - Loading data from `users` (CSVDataSet)...
+2022-01-13 12:06:43,274 - kedro.io.data_catalog - INFO - Loading data from `users` (CSVDataSet)...
+2022-01-13 12:06:43,282 - kedro.io.data_catalog - INFO - Loading data from `users` (CSVDataSet)...
+2022-01-13 12:06:43,289 - kedro.io.data_catalog - INFO - Loading data from `users` (CSVDataSet)...
+2022-01-13 12:06:43,295 - kedro.io.data_catalog - INFO - Loading data from `users` (CSVDataSet)...
+2022-01-13 12:06:43,303 - root - INFO - LOOP 0: (array([ 1,  3,  4,  6,  7, 11]), True, array([ 0,  2,  5,  8,  9, 10]))
+2022-01-13 12:06:43,304 - kedro.io.data_catalog - INFO - Loading data from `users` (CSVDataSet)...
+2022-01-13 12:06:57,727 - kedro.io.data_catalog - INFO - Loading data from `templates` (CSVDataSet)...
+2022-01-13 12:06:58,522 - kedro.io.data_catalog - INFO - Loading data from `templates` (CSVDataSet)...
+2022-01-13 12:07:01,521 - root - INFO - baseline mean: 0.8237745794946474
+2022-01-13 12:07:02,394 - kedro.io.data_catalog - INFO - Loading data from `templates` (CSVDataSet)...
+2022-01-13 12:07:02,667 - kedro.io.data_catalog - INFO - Loading data from `templates` (CSVDataSet)...
+2022-01-13 12:07:02,803 - kedro.io.data_catalog - INFO - Loading data from `templates` (CSVDataSet)...
+2022-01-13 12:07:03,090 - kedro.io.data_catalog - INFO - Loading data from `templates` (CSVDataSet)...
+2022-01-13 12:07:04,327 - kedro.io.data_catalog - INFO - Loading data from `templates` (CSVDataSet)...
+2022-01-13 12:07:04,910 - kedro.io.data_catalog - INFO - Loading data from `templates` (CSVDataSet)...
+2022-01-13 12:07:04,911 - kedro.io.data_catalog - INFO - Loading data from `templates` (CSVDataSet)...
+2022-01-13 12:07:04,931 - kedro.io.data_catalog - INFO - Loading data from `templates` (CSVDataSet)...
+2022-01-13 12:08:27,319 - metric_learning.pipelines.optimisation.spatial.models - INFO - [ 0.998  1.000  0.991  1.000  0.998  1.001  1.000  1.005  1.001  1.002
+  1.003  0.999  1.002  1.001  0.999]
+2022-01-13 12:08:27,320 - metric_learning.pipelines.optimisation.spatial.models - INFO - CV[0]: 0.162
+2022-01-13 12:11:11,034 - metric_learning.pipelines.optimisation.spatial.models - INFO - [ 0.860  1.023  0.250  0.984  0.785  1.128  1.020  1.424  1.113  1.154
+  1.236  0.890  1.146  1.096  0.878]
+2022-01-13 12:11:11,034 - metric_learning.pipelines.optimisation.spatial.models - INFO - CV[1]: 0.151
+2022-01-13 12:15:19,161 - metric_learning.pipelines.optimisation.spatial.models - INFO - [ 0.860  1.023  0.250  0.984  0.785  1.128  1.020  1.424  1.113  1.154
+  1.236  0.890  1.146  1.096  0.878]
+2022-01-13 12:15:19,161 - metric_learning.pipelines.optimisation.spatial.models - INFO - CV[2]: 0.151
+2022-01-13 12:15:20,061 - root - INFO - optimised mean: 0.8214402182640838
+2022-01-13 12:15:20,073 - root - INFO - LOOP 1: (array([ 0,  2,  5,  8,  9, 10]), True, array([ 1,  3,  4,  6,  7, 11]))
+2022-01-13 12:15:21,054 - root - INFO - baseline mean: 0.7074117211182301
+2022-01-13 12:16:44,810 - metric_learning.pipelines.optimisation.spatial.models - INFO - [ 1.004  0.998  0.991  0.997  1.002  1.008  1.009  0.999  0.996  1.009
+  0.998  0.995  1.000  0.998  0.995]
+2022-01-13 12:16:44,810 - metric_learning.pipelines.optimisation.spatial.models - INFO - CV[0]: 0.191
+2022-01-13 12:17:28,182 - metric_learning.pipelines.optimisation.spatial.models - INFO - [ 1.342  0.340  0.000  0.562  1.308  2.497  2.421  0.797  0.616  2.154
+  0.687  0.018  0.669  0.741  0.138]
+2022-01-13 12:17:28,182 - metric_learning.pipelines.optimisation.spatial.models - INFO - CV[1]: 0.156
+2022-01-13 12:20:52,724 - metric_learning.pipelines.optimisation.spatial.models - INFO - [ 1.342  0.340  0.000  0.562  1.308  2.497  2.421  0.797  0.616  2.154
+  0.687  0.018  0.669  0.741  0.138]
+2022-01-13 12:20:52,725 - metric_learning.pipelines.optimisation.spatial.models - INFO - CV[2]: 0.156
+2022-01-13 12:20:53,683 - root - INFO - optimised mean: 0.7091323983420461
+2022-01-13 12:20:53,688 - root - INFO - LOOP 2: (array([ 1,  2,  4,  5,  7, 11]), True, array([ 0,  3,  6,  8,  9, 10]))
+2022-01-13 12:20:54,640 - root - INFO - baseline mean: 0.7563635946619627
+2022-01-13 12:22:17,559 - metric_learning.pipelines.optimisation.spatial.models - INFO - [ 0.998  0.998  0.993  1.000  0.999  1.004  1.003  1.005  1.001  1.003
+  1.002  0.996  1.002  1.002  0.996]
+2022-01-13 12:22:17,560 - metric_learning.pipelines.optimisation.spatial.models - INFO - CV[0]: 0.151
+2022-01-13 12:25:01,840 - metric_learning.pipelines.optimisation.spatial.models - INFO - [ 0.828  0.856  0.387  0.988  0.945  1.312  1.222  1.393  1.089  1.236
+  1.163  0.628  1.133  1.159  0.648]
+2022-01-13 12:25:01,840 - metric_learning.pipelines.optimisation.spatial.models - INFO - CV[1]: 0.138
+2022-01-13 12:25:45,137 - metric_learning.pipelines.optimisation.spatial.models - INFO - [ 0.248  0.527  0.000  0.938  0.501  1.823  1.574  1.919  1.118  1.556
+  1.504  0.000  1.248  1.378  0.000]
+2022-01-13 12:25:45,137 - metric_learning.pipelines.optimisation.spatial.models - INFO - CV[2]: 0.127
+2022-01-13 12:29:24,897 - metric_learning.pipelines.optimisation.spatial.models - INFO - [ 0.248  0.527  0.000  0.938  0.501  1.823  1.574  1.919  1.118  1.556
+  1.504  0.000  1.248  1.378  0.000]
+2022-01-13 12:29:24,898 - metric_learning.pipelines.optimisation.spatial.models - INFO - CV[3]: 0.127
+2022-01-13 12:29:25,924 - root - INFO - optimised mean: 0.7543681640093367
+2022-01-13 12:29:25,929 - root - INFO - LOOP 3: (array([ 0,  3,  6,  8,  9, 10]), True, array([ 1,  2,  4,  5,  7, 11]))
+2022-01-13 12:29:26,909 - root - INFO - baseline mean: 0.7492690081615971
+2022-01-13 12:30:53,822 - metric_learning.pipelines.optimisation.spatial.models - INFO - [ 1.004  1.001  0.987  0.998  1.000  1.005  1.006  0.999  0.998  1.007
+  1.000  0.998  1.001  0.999  0.998]
+2022-01-13 12:30:53,822 - metric_learning.pipelines.optimisation.spatial.models - INFO - CV[0]: 0.208
+2022-01-13 12:31:40,251 - metric_learning.pipelines.optimisation.spatial.models - INFO - [ 1.371  1.099  0.000  0.773  0.950  1.447  1.613  0.911  0.756  1.731
+  0.959  0.787  1.007  0.898  0.779]
+2022-01-13 12:31:40,251 - metric_learning.pipelines.optimisation.spatial.models - INFO - CV[1]: 0.186
+2022-01-13 12:36:00,866 - metric_learning.pipelines.optimisation.spatial.models - INFO - [ 1.371  1.099  0.000  0.773  0.950  1.447  1.613  0.911  0.756  1.731
+  0.959  0.787  1.007  0.898  0.779]
+2022-01-13 12:36:00,867 - metric_learning.pipelines.optimisation.spatial.models - INFO - CV[2]: 0.186
+2022-01-13 12:36:01,932 - root - INFO - optimised mean: 0.7878778864995762
+2022-01-13 12:36:01,941 - root - INFO - LOOP 4: (array([ 0,  2,  5,  8,  9, 11]), True, array([ 1,  3,  4,  6,  7, 10]))
+2022-01-13 12:36:02,984 - root - INFO - baseline mean: 0.7624227009484399
+2022-01-13 12:37:29,786 - metric_learning.pipelines.optimisation.spatial.models - INFO - [ 1.002  0.996  0.996  0.998  1.003  1.007  1.006  1.000  0.997  1.006
+  0.997  0.996  1.000  0.998  0.997]
+2022-01-13 12:37:29,787 - metric_learning.pipelines.optimisation.spatial.models - INFO - CV[0]: 0.177
+2022-01-13 12:38:12,821 - metric_learning.pipelines.optimisation.spatial.models - INFO - [ 1.271  0.000  0.000  0.338  1.626  2.784  2.637  0.868  0.380  2.191
+  0.000  0.000  0.474  0.576  0.000]
+2022-01-13 12:38:12,822 - metric_learning.pipelines.optimisation.spatial.models - INFO - CV[1]: 0.151
+2022-01-13 12:41:36,243 - metric_learning.pipelines.optimisation.spatial.models - INFO - [ 1.271  0.000  0.000  0.338  1.626  2.784  2.637  0.868  0.380  2.191
+  0.000  0.000  0.474  0.576  0.000]
+2022-01-13 12:41:36,243 - metric_learning.pipelines.optimisation.spatial.models - INFO - CV[2]: 0.151
+2022-01-13 12:41:37,251 - root - INFO - optimised mean: 0.7503908714195788
+2022-01-13 12:41:37,261 - root - INFO - LOOP 5: (array([ 1,  3,  4,  6,  7, 10]), True, array([ 0,  2,  5,  8,  9, 11]))
+2022-01-13 12:41:38,150 - root - INFO - baseline mean: 0.778831602881188
+2022-01-13 12:43:01,543 - metric_learning.pipelines.optimisation.spatial.models - INFO - [ 1.000  1.003  0.986  0.999  0.997  1.002  1.003  1.004  1.001  1.004
+  1.004  0.998  1.002  1.002  0.997]
+2022-01-13 12:43:01,543 - metric_learning.pipelines.optimisation.spatial.models - INFO - CV[0]: 0.179
+2022-01-13 12:45:52,852 - metric_learning.pipelines.optimisation.spatial.models - INFO - [ 0.988  1.183  0.000  0.921  0.745  1.106  1.189  1.266  1.068  1.310
+  1.317  0.840  1.108  1.149  0.791]
+2022-01-13 12:45:52,852 - metric_learning.pipelines.optimisation.spatial.models - INFO - CV[1]: 0.160
+2022-01-13 12:50:15,320 - metric_learning.pipelines.optimisation.spatial.models - INFO - [ 0.988  1.183  0.000  0.921  0.745  1.106  1.189  1.266  1.068  1.310
+  1.317  0.840  1.108  1.149  0.791]
+2022-01-13 12:50:15,320 - metric_learning.pipelines.optimisation.spatial.models - INFO - CV[2]: 0.160
+2022-01-13 12:50:16,264 - root - INFO - optimised mean: 0.7874937106264448
+2022-01-13 12:50:16,269 - root - INFO - LOOP 6: (array([ 2,  3,  4,  6,  8, 11]), True, array([ 0,  1,  5,  7,  9, 10]))
+2022-01-13 12:50:17,264 - root - INFO - baseline mean: 0.8303953750663282
+2022-01-13 12:51:47,364 - metric_learning.pipelines.optimisation.spatial.models - INFO - [ 0.999  0.997  0.996  0.996  0.998  1.004  1.003  1.003  0.998  1.005
+  1.000  1.000  1.002  0.999  0.999]
+2022-01-13 12:51:47,364 - metric_learning.pipelines.optimisation.spatial.models - INFO - CV[0]: 0.177
+2022-01-13 12:52:34,030 - metric_learning.pipelines.optimisation.spatial.models - INFO - [ 0.886  0.137  0.000  0.000  0.450  2.075  1.787  1.791  0.545  2.197
+  0.951  1.063  1.514  0.865  0.687]
+2022-01-13 12:52:34,031 - metric_learning.pipelines.optimisation.spatial.models - INFO - CV[1]: 0.158
+2022-01-13 12:56:18,118 - metric_learning.pipelines.optimisation.spatial.models - INFO - [ 0.886  0.137  0.000  0.000  0.450  2.075  1.787  1.791  0.545  2.197
+  0.951  1.063  1.514  0.865  0.687]
+2022-01-13 12:56:18,118 - metric_learning.pipelines.optimisation.spatial.models - INFO - CV[2]: 0.158
+2022-01-13 12:56:19,172 - root - INFO - optimised mean: 0.8417621293337941
+2022-01-13 12:56:19,178 - root - INFO - LOOP 7: (array([ 0,  1,  5,  7,  9, 10]), True, array([ 2,  3,  4,  6,  8, 11]))
+2022-01-13 12:56:20,206 - root - INFO - baseline mean: 0.7123350630982915
+2022-01-13 12:57:47,536 - metric_learning.pipelines.optimisation.spatial.models - INFO - [ 1.002  1.004  0.984  1.002  1.001  1.006  1.005  1.000  1.002  1.005
+  1.002  0.993  1.000  1.001  0.994]
+2022-01-13 12:57:47,536 - metric_learning.pipelines.optimisation.spatial.models - INFO - CV[0]: 0.173
+2022-01-13 12:58:33,075 - metric_learning.pipelines.optimisation.spatial.models - INFO - [ 1.065  1.256  0.000  1.179  0.794  1.599  1.500  0.823  0.998  1.503
+  1.070  0.026  0.861  1.100  0.000]
+2022-01-13 12:58:33,075 - metric_learning.pipelines.optimisation.spatial.models - INFO - CV[1]: 0.142
+2022-01-13 13:01:56,143 - metric_learning.pipelines.optimisation.spatial.models - INFO - [ 1.065  1.256  0.000  1.179  0.794  1.599  1.500  0.823  0.998  1.503
+  1.070  0.026  0.861  1.100  0.000]
+2022-01-13 13:01:56,144 - metric_learning.pipelines.optimisation.spatial.models - INFO - CV[2]: 0.142
+2022-01-13 13:01:57,107 - root - INFO - optimised mean: 0.709187486837759
+2022-01-13 13:01:57,116 - root - INFO - LOOP 8: (array([ 1,  3,  4,  8,  9, 10]), True, array([ 0,  2,  5,  6,  7, 11]))
+2022-01-13 13:01:58,022 - root - INFO - baseline mean: 0.7910382106515272
+2022-01-13 13:03:21,296 - metric_learning.pipelines.optimisation.spatial.models - INFO - [ 1.003  0.998  0.992  0.997  0.998  1.000  1.003  1.000  1.000  1.007
+  1.002  1.000  1.002  1.000  0.997]
+2022-01-13 13:03:21,296 - metric_learning.pipelines.optimisation.spatial.models - INFO - CV[0]: 0.189
+2022-01-13 13:04:03,906 - metric_learning.pipelines.optimisation.spatial.models - INFO - [ 1.377  0.636  0.000  0.498  0.614  1.043  1.528  1.081  0.971  2.148
+  1.252  1.005  1.299  1.101  0.530]
+2022-01-13 13:04:03,907 - metric_learning.pipelines.optimisation.spatial.models - INFO - CV[1]: 0.171
+2022-01-13 13:07:31,655 - metric_learning.pipelines.optimisation.spatial.models - INFO - [ 1.377  0.636  0.000  0.498  0.614  1.043  1.528  1.081  0.971  2.148
+  1.252  1.005  1.299  1.101  0.530]
+2022-01-13 13:07:31,656 - metric_learning.pipelines.optimisation.spatial.models - INFO - CV[2]: 0.171
+2022-01-13 13:07:32,588 - root - INFO - optimised mean: 0.8299594742625012
+2022-01-13 13:07:32,597 - root - INFO - LOOP 9: (array([ 0,  2,  5,  6,  7, 11]), True, array([ 1,  3,  4,  8,  9, 10]))
+2022-01-13 13:07:33,598 - root - INFO - baseline mean: 0.7412204638706101
+2022-01-13 13:08:57,789 - metric_learning.pipelines.optimisation.spatial.models - INFO - [ 1.000  1.002  0.986  1.001  1.002  1.009  1.005  1.002  0.999  1.003
+  0.999  0.994  1.000  1.000  0.997]
+2022-01-13 13:08:57,790 - metric_learning.pipelines.optimisation.spatial.models - INFO - CV[0]: 0.166
+2022-01-13 13:09:41,391 - metric_learning.pipelines.optimisation.spatial.models - INFO - [ 0.907  1.190  0.000  0.785  0.986  1.928  1.503  1.168  0.736  1.324
+  1.043  0.180  1.062  0.988  0.681]
+2022-01-13 13:09:41,391 - metric_learning.pipelines.optimisation.spatial.models - INFO - CV[1]: 0.138
+2022-01-13 13:13:52,197 - metric_learning.pipelines.optimisation.spatial.models - INFO - [ 0.907  1.190  0.000  0.785  0.986  1.928  1.503  1.168  0.736  1.324
+  1.043  0.180  1.062  0.988  0.681]
+2022-01-13 13:13:52,198 - metric_learning.pipelines.optimisation.spatial.models - INFO - CV[2]: 0.138
+2022-01-13 13:13:53,200 - root - INFO - optimised mean: 0.7381705040371702
+2022-01-13 13:13:53,205 - root - INFO - LOOP 10: (array([0, 1, 2, 3, 6, 7]), True, array([ 4,  5,  8,  9, 10, 11]))
+2022-01-13 13:13:54,178 - root - INFO - baseline mean: 0.7905686874296136
+2022-01-13 13:15:17,358 - metric_learning.pipelines.optimisation.spatial.models - INFO - [ 0.999  1.002  0.989  1.001  0.999  1.006  1.005  1.002  1.000  1.002
+  1.002  0.995  1.000  1.000  0.997]
+2022-01-13 13:15:17,359 - metric_learning.pipelines.optimisation.spatial.models - INFO - CV[0]: 0.198
+2022-01-13 13:15:59,185 - metric_learning.pipelines.optimisation.spatial.models - INFO - [ 0.858  1.280  0.000  0.993  0.883  1.667  1.510  1.222  0.966  1.300
+  1.233  0.423  0.957  1.056  0.751]
+2022-01-13 13:15:59,186 - metric_learning.pipelines.optimisation.spatial.models - INFO - CV[1]: 0.176
+2022-01-13 13:20:21,534 - metric_learning.pipelines.optimisation.spatial.models - INFO - [ 0.858  1.280  0.000  0.993  0.883  1.667  1.510  1.222  0.966  1.300
+  1.233  0.423  0.957  1.056  0.751]
+2022-01-13 13:20:21,535 - metric_learning.pipelines.optimisation.spatial.models - INFO - CV[2]: 0.176
+2022-01-13 13:20:22,504 - root - INFO - optimised mean: 0.7944489427911396
+2022-01-13 13:20:22,509 - root - INFO - LOOP 11: (array([ 4,  5,  8,  9, 10, 11]), True, array([0, 1, 2, 3, 6, 7]))
+2022-01-13 13:20:23,480 - root - INFO - baseline mean: 0.6967269117465474
+2022-01-13 13:21:48,289 - metric_learning.pipelines.optimisation.spatial.models - INFO - [ 1.003  0.997  0.993  0.996  0.999  1.002  1.004  1.001  0.998  1.008
+  1.000  0.999  1.002  1.000  0.997]
+2022-01-13 13:21:48,290 - metric_learning.pipelines.optimisation.spatial.models - INFO - CV[0]: 0.156
+2022-01-13 13:22:31,600 - metric_learning.pipelines.optimisation.spatial.models - INFO - [ 1.641  0.000  0.000  0.248  0.721  1.574  2.051  1.534  0.912  2.616
+  0.884  0.810  1.334  1.051  0.160]
+2022-01-13 13:22:31,600 - metric_learning.pipelines.optimisation.spatial.models - INFO - CV[1]: 0.139
+2022-01-13 13:26:05,746 - metric_learning.pipelines.optimisation.spatial.models - INFO - [ 1.641  0.000  0.000  0.248  0.721  1.574  2.051  1.534  0.912  2.616
+  0.884  0.810  1.334  1.051  0.160]
+2022-01-13 13:26:05,747 - metric_learning.pipelines.optimisation.spatial.models - INFO - CV[2]: 0.139
+2022-01-13 13:26:06,675 - root - INFO - optimised mean: 0.7445192613300233
+2022-01-13 13:26:06,684 - root - INFO - LOOP 12: (array([ 1,  3,  5,  8,  9, 10]), True, array([ 0,  2,  4,  6,  7, 11]))
+2022-01-13 13:26:07,635 - root - INFO - baseline mean: 0.7538289682211227
+2022-01-13 13:27:28,750 - metric_learning.pipelines.optimisation.spatial.models - INFO - [ 1.003  0.999  0.993  0.998  0.999  1.001  1.004  0.999  1.000  1.006
+  1.001  0.999  1.001  1.001  0.997]
+2022-01-13 13:27:28,751 - metric_learning.pipelines.optimisation.spatial.models - INFO - CV[0]: 0.177
+2022-01-13 13:28:10,966 - metric_learning.pipelines.optimisation.spatial.models - INFO - [ 1.444  0.776  0.000  0.715  0.840  1.136  1.700  0.888  0.872  2.045
+  1.128  0.869  1.102  1.103  0.420]
+2022-01-13 13:28:10,966 - metric_learning.pipelines.optimisation.spatial.models - INFO - CV[1]: 0.163
+2022-01-13 13:31:30,699 - metric_learning.pipelines.optimisation.spatial.models - INFO - [ 1.444  0.776  0.000  0.715  0.840  1.136  1.700  0.888  0.872  2.045
+  1.128  0.869  1.102  1.103  0.420]
+2022-01-13 13:31:30,701 - metric_learning.pipelines.optimisation.spatial.models - INFO - CV[2]: 0.163
+2022-01-13 13:31:31,649 - root - INFO - optimised mean: 0.7968738394843206
+2022-01-13 13:31:31,654 - root - INFO - LOOP 13: (array([ 0,  2,  4,  6,  7, 11]), True, array([ 1,  3,  5,  8,  9, 10]))
+2022-01-13 13:31:32,573 - root - INFO - baseline mean: 0.7485281962386469
+2022-01-13 13:32:54,249 - metric_learning.pipelines.optimisation.spatial.models - INFO - [ 1.000  1.000  0.985  1.000  1.001  1.009  1.005  1.004  1.000  1.004
+  1.001  0.994  1.001  1.000  0.997]
+2022-01-13 13:32:54,250 - metric_learning.pipelines.optimisation.spatial.models - INFO - CV[0]: 0.178
+2022-01-13 13:33:36,129 - metric_learning.pipelines.optimisation.spatial.models - INFO - [ 0.944  0.978  0.000  0.926  0.945  1.868  1.487  1.481  0.946  1.294
+  1.037  0.333  1.096  1.031  0.695]
+2022-01-13 13:33:36,130 - metric_learning.pipelines.optimisation.spatial.models - INFO - CV[1]: 0.150
+2022-01-13 13:36:57,948 - metric_learning.pipelines.optimisation.spatial.models - INFO - [ 0.944  0.978  0.000  0.926  0.945  1.868  1.487  1.481  0.946  1.294
+  1.037  0.333  1.096  1.031  0.695]
+2022-01-13 13:36:57,948 - metric_learning.pipelines.optimisation.spatial.models - INFO - CV[2]: 0.150
+2022-01-13 13:36:58,829 - root - INFO - optimised mean: 0.7349398452722347
+2022-01-13 13:36:58,833 - root - INFO - LOOP 14: (array([ 4,  6,  7,  8,  9, 11]), True, array([ 0,  1,  2,  3,  5, 10]))
+2022-01-13 13:36:59,797 - root - INFO - baseline mean: 0.7470534467831366
+2022-01-13 13:38:21,517 - metric_learning.pipelines.optimisation.spatial.models - INFO - [ 1.002  0.999  0.992  0.997  0.998  1.004  1.002  1.003  1.000  1.004
+  1.000  0.998  1.001  1.000  0.998]
+2022-01-13 13:38:21,517 - metric_learning.pipelines.optimisation.spatial.models - INFO - CV[0]: 0.174
+2022-01-13 13:39:03,855 - metric_learning.pipelines.optimisation.spatial.models - INFO - [ 1.255  0.880  0.000  0.651  0.707  1.542  1.299  1.491  1.036  1.542
+  0.988  0.751  1.153  1.036  0.739]
+2022-01-13 13:39:03,856 - metric_learning.pipelines.optimisation.spatial.models - INFO - CV[1]: 0.161
+2022-01-13 13:42:24,598 - metric_learning.pipelines.optimisation.spatial.models - INFO - [ 1.255  0.880  0.000  0.651  0.707  1.542  1.299  1.491  1.036  1.542
+  0.988  0.751  1.153  1.036  0.739]
+2022-01-13 13:42:24,599 - metric_learning.pipelines.optimisation.spatial.models - INFO - CV[2]: 0.161
+2022-01-13 13:42:25,506 - root - INFO - optimised mean: 0.7740812548045123
+2022-01-13 13:42:25,515 - root - INFO - LOOP 15: (array([ 0,  1,  2,  3,  5, 10]), True, array([ 4,  6,  7,  8,  9, 11]))
+2022-01-13 13:42:26,536 - root - INFO - baseline mean: 0.7614147363034173
+2022-01-13 13:43:47,536 - metric_learning.pipelines.optimisation.spatial.models - INFO - [ 1.000  1.000  0.988  1.000  1.001  1.004  1.007  1.000  0.999  1.006
+  1.002  0.995  1.001  1.000  0.996]
+2022-01-13 13:43:47,537 - metric_learning.pipelines.optimisation.spatial.models - INFO - CV[0]: 0.182
+2022-01-13 13:46:26,729 - metric_learning.pipelines.optimisation.spatial.models - INFO - [ 1.012  1.038  0.002  1.018  1.111  1.361  1.568  0.998  0.893  1.499
+  1.138  0.599  1.064  1.029  0.643]
+2022-01-13 13:46:26,729 - metric_learning.pipelines.optimisation.spatial.models - INFO - CV[1]: 0.162
+2022-01-13 13:50:24,352 - metric_learning.pipelines.optimisation.spatial.models - INFO - [ 1.012  1.038  0.002  1.018  1.111  1.361  1.568  0.998  0.893  1.499
+  1.138  0.599  1.064  1.029  0.643]
+2022-01-13 13:50:24,353 - metric_learning.pipelines.optimisation.spatial.models - INFO - CV[2]: 0.162
+2022-01-13 13:50:25,278 - root - INFO - optimised mean: 0.7743852221776464

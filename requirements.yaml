@@ -1,0 +1,29 @@
+name: plos_motor_metric_learning
+dependencies:
+  - python=3.7.11
+  - numpy
+  - pandas
+  - scipy
+
+  - jupyterlab
+  - ipywidgets
+
+  - matplotlib
+  - seaborn
+
+  - statsmodels
+
+  - cython
+  - scikit-learn
+  - pip
+  - gitpython
+
+  - conda-forge::kedro=0.17.6
+  - conda-forge::click=7.1.2
+
+  - pip:
+      - fastdtw
+      - mlflow
+      - pandarallel
+      - pingouin
+      - git+https://github.com/toinsson/fastdtw.git@distance

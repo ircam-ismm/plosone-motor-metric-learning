@@ -1,0 +1,6 @@
+preprocessing:
+  derivatives: 2
+
+savgol:
+  window_length: 51
+  polyorder: 3

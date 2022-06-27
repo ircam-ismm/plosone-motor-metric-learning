@@ -1,0 +1,44 @@
+# this experiment computes the correlation between annotations and pairs of
+# measurements for a DTW metric with parameters defined below.
+
+# dimensions available:
+# ['ax', 'ay', 'az',        : RIOT acceleration
+#  'gx', 'gy', 'gz',        : RIOT gyroscope
+#  'ox', 'oy', 'oz',        : orientation
+#  'q1', 'q2', 'q3', 'q4',  : orientation
+#  'roll', 'pitch', 'yaw',  : orientation
+#  'px', 'py', 'pz',        : MOCAP position
+#  'px0', 'py0', 'pz0',     : position filtered
+#  'px1', 'py1', 'pz1',     : velocity filtered
+#  'px2', 'py2', 'pz2']     : acceleration filtered
+
+# annotations available:
+# all, mean, individual
+
+data:
+  normalise: [True]
+  dims: [
+    ['ax0', 'ay0', 'az0'], 
+    ['gx0', 'gy0', 'gz0'],
+    ['px0', 'py0', 'pz0'],
+    ['px1', 'py1', 'pz1'],
+    ['px2', 'py2', 'pz2'],
+    ['px0', 'py0', 'pz0', 'px1', 'py1', 'pz1', 'px2', 'py2', 'pz2'],
+    ['ax0', 'ay0', 'az0', 'gx0', 'gy0', 'gz0', 'px0', 'py0', 'pz0'],
+    ['px0', 'py0', 'pz0', 'ax0', 'ay0', 'az0', 'gx0', 'gy0', 'gz0', 'px1', 'py1', 'pz1', 'px2', 'py2', 'pz2']
+  ]
+
+dtw:
+  radius: [10]
+  dist: 1
+  averaged: False
+
+compute:
+  parallel: True
+  nb_workers: 6
+  use_memory_fs: True
+
+mlflow:
+  experiment_id: 20
+
+annotations: 'all'

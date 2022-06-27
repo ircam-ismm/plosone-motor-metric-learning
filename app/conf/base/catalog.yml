@@ -1,0 +1,47 @@
+# Here you can define all your data sets by using simple YAML syntax.
+#
+# Documentation for this file format can be found in "The Data Catalog"
+# Link: https://kedro.readthedocs.io/en/stable/05_data/01_data_catalog.html
+# raw_users:
+#   type: pandas.CSVDataSet
+#   filepath: data/01_raw/users.df
+#   layer: raw
+#   load_args:
+#     index_col: 0
+
+# raw_templates:
+#   type: pandas.CSVDataSet
+#   filepath: data/01_raw/templates.df
+#   layer: raw
+#   load_args:
+#     index_col: 0
+
+annotations_90_repeat:
+  type: pandas.CSVDataSet
+  filepath: data/annotations_90_repeat.csv
+  layer: raw
+
+annotations_180_individual:
+  type: pandas.CSVDataSet
+  filepath: data/annotations_180_individual.csv
+  layer: raw
+
+# processed_users:
+#   type: pandas.CSVDataSet
+#   filepath: data/02_intermediate/processed_users.df
+#   layer: intermediate
+
+# processed_templates:
+#   type: pandas.CSVDataSet
+#   filepath: data/02_intermediate/processed_templates.df
+#   layer: intermediate
+
+users:
+  type: pandas.CSVDataSet
+  filepath: data/users.df
+  layer: primary
+
+templates:
+  type: pandas.CSVDataSet
+  filepath: data/templates.df
+  layer: primary

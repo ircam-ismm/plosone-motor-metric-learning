@@ -1,0 +1,4 @@
+artifact_location: file:///home/antoine/Documents/research/motor_metric_learning/metric-learning/mlruns/20
+experiment_id: '20'
+lifecycle_stage: active
+name: journal_grid_search
