@@ -1,6 +1,6 @@
 # Movement Metric Learning - PLOS One
 
-This repository contains the work published as a journal in [PlosOne](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0272509).
+This repository contains the work published as a journal in [PLOS One](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0272509).
 
 The purpose of this repository is to support reproducible research. It contains:
 - the datasets
